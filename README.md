@@ -13,8 +13,8 @@
 ---
 
 * 📚| I'm currently studying Analysis and Development of Systems at UNIP.
-* 🖥️| I am looking for my next job, and my dream is to one day work with AI.
-* 👾| I love programming games.
+* 🖥️| Currently specializing in Artificial Intelligence and expanding my skills in automation and data-driven solutions.
+* ⚙️| Experience with Python, automation, RPA, APIs, bots, and UI development.
 
 ---
 <h1>✨ Skills</h1>
